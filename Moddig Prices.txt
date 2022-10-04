@@ -52,7 +52,7 @@
 
         -- Ps3's
 
-        - Jailbreak $120
+        - Jailbreak $165
 
         - Send ins are $65
 
